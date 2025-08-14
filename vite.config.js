@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(), // for tailwindcss version 4 
   ],
-  base: '/lakshan-portfolio/', // repo name here 
+  // base: '/lakshan-portfolio/', // repo name here only if you use git , not for vercel
 })

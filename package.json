@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"   // this is to deploy vite when using github 
+    "deploy": "gh-pages -d dist"  
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
